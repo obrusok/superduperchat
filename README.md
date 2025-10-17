@@ -14,7 +14,7 @@
 
 - **DiscordSRV support:** Easily share your chats with Discord. You can also relay all existing chats in the plugin.
 
-- ### Commands:
+### Commands:
 
 <details>
 <summary>Spoiler</summary>
