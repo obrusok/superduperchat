@@ -1,0 +1,2 @@
+# superduperchat
+Minecraft chat plugin
