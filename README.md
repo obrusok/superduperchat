@@ -38,6 +38,7 @@
 - superduperchat.write.local - Write in local chat
 - superduperchat.chat.lock - /chat lock
 - superduperchat.chat.unlock - /chat unlock
+- superduperchat.chat.spy - /chat spy
 - superduperchat.clear - /chat clear
 - superduperchat.reload - /chat reload
 - superduperchat.admin - Gives access to all command, immunity to locked chat and cooldown.
